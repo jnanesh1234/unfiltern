@@ -33,15 +33,12 @@
 
 * Add your filters :)
 
-## Modal Bot 
-  * [<i><b>@TMBETTERFILTERBOT</i></b>](https://t.me/tmbetterfilterbot)
-
 ## Bot Commands
 
 (You need to be an admin or Auth User in order to use these commands)
 
 > Filter Commands
-* `/add <filtername> <filtercontent>`  -  To add your filter. You can also reply to your content with /add command.
+* `/filter <filtername> <filtercontent>`  -  To add your filter. You can also reply to your content with /add command.
 
 * `/del <filtername>`  -  Delete your filter.
 
@@ -71,7 +68,7 @@
 <details><summary>Deploy To Heroku</summary>
 <p>
 <br>
-<a href="https://heroku.com/deploy?template=https://github.com/TechnoMindz/FilterBot">
+<a href="https://heroku.com/deploy?template=https://github.com/Jnanesh12/FilterBot">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 </p>
