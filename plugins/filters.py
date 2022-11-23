@@ -2,7 +2,6 @@ import os
 import re
 import io
 import pyrogram
-import asyncio
 
 from pyrogram import filters, Client
 from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup
@@ -90,10 +89,7 @@ async def addfilter(client, message):
                   message.reply_to_message.sticker
             if msg:
                 fileid = msg.file_id
-                reply_text = message.reply_to_message.caption.html
-                await asyncio.sleep(60)
-                await msg.delete()
-    
+                reply_text = message.reply_to_message.caption.html               
             else:
                 reply_text = message.reply_to_message.text.html
                 fileid = None
@@ -107,10 +103,7 @@ async def addfilter(client, message):
     elif message.reply_to_message and message.reply_to_message.photo:
         try:
             fileid = message.reply_to_message.photo.file_id
-            mk=reply_text, btn, alert = parser(message.reply_to_message.caption.html, text)
-            await asyncio.sleep(60)
-            await mk.delete()
-                    
+            reply_text, btn, alert = parser(message.reply_to_message.caption.html, text)                                        
         except:
             reply_text = ""
             btn = "[]"
@@ -119,9 +112,7 @@ async def addfilter(client, message):
     elif message.reply_to_message and message.reply_to_message.video:
         try:
             fileid = message.reply_to_message.video.file_id
-            nl=reply_text, btn, alert = parser(message.reply_to_message.caption.html, text)
-            await asyncio.sleep(60)
-            await nl.delete()
+            reply_text, btn, alert = parser(message.reply_to_message.caption.html, text)
         except:
             reply_text = ""
             btn = "[]"
@@ -130,9 +121,7 @@ async def addfilter(client, message):
     elif message.reply_to_message and message.reply_to_message.audio:
         try:
             fileid = message.reply_to_message.audio.file_id
-            nn=reply_text, btn, alert = parser(message.reply_to_message.caption.html, text)
-            await asyncio.sleep(60)
-            await nn.delete()
+            reply_text, btn, alert = parser(message.reply_to_message.caption.html, text)             
         except:
             reply_text = ""
             btn = "[]"
@@ -141,10 +130,7 @@ async def addfilter(client, message):
     elif message.reply_to_message and message.reply_to_message.document:
         try:
             fileid = message.reply_to_message.document.file_id
-            np=reply_text, btn, alert = parser(message.reply_to_message.caption.html, text)
-            await asyncio.sleep(60)
-            await np.delete()
-            
+            reply_text, btn, alert = parser(message.reply_to_message.caption.html, text)                       
         except:
             reply_text = ""
             btn = "[]"
@@ -153,9 +139,7 @@ async def addfilter(client, message):
     elif message.reply_to_message and message.reply_to_message.animation:
         try:
             fileid = message.reply_to_message.animation.file_id
-            gl=reply_text, btn, alert = parser(message.reply_to_message.caption.html, text)
-            await asyncio.sleep(60)
-            await gl.delete()
+            reply_text, btn, alert = parser(message.reply_to_message.caption.html, text)                     
         except:
             reply_text = ""
             btn = "[]"
