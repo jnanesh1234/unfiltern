@@ -2,6 +2,7 @@ import os
 import re
 import io
 import pyrogram
+import asyncio
 
 from pyrogram import filters, Client
 from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup
@@ -334,7 +335,9 @@ async def give_filter(client,message):
                 try:
                     if fileid == "None":
                         if btn == "[]":
-                            await message.reply_text(reply_text, disable_web_page_preview=True)
+                            final_msg = await message.reply_text(reply_text, disable_web_page_preview=True)
+                                await asyncio.sleep(60)
+                                await final_msg.delete()
                         else:
                             button = eval(btn)
                             await message.reply_text(
