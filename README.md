@@ -1,4 +1,4 @@
-<h2 align="centre"><i><b>🎀ROCKERS OFFICIAL 🎀</i></b></h2>
+<h2 align="centre"><i><b>ROCKERS OFFICIAL </i></b></h2>
 
 
 
@@ -6,7 +6,7 @@
 
 ## Introduction
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+ROCKER'S!;A+FILTER+BOT+LIKE+BETTERFILTERBOT;Created+by+jnanesh gowdatn!;A+simple+and+a+powerful+Bot!;Don't+Forget+To+Subcribe;ROCKER'S+in+YouTube;)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+Techno+Mindz!;A+FILTER+BOT+LIKE+BETTERFILTERBOT;Created+by+RAVINANDAN!;A+simple+and+a+powerful+Bot!;Don't+Forget+To+Subcribe;Techno+Mindz+in+YouTube;)
 </p>
 </h1>
 <a href="https://youtube.com/@jnaneshtech1165">
