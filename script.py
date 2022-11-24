@@ -1,10 +1,20 @@
 class Script(object):
 
-    START_MSG = """<b>Hi 👋 {},
+    START_MSG = """<b>Hey 👋 {},
 
-I'm an advanced filter bot with many capabilities!
+○  I'm an manual unlimited filter bot with many features 💖
 
-I have also auto delete feature in ur filter 
+○  I have also auto delete feature in ur filter 💝
+
+○  all type of filter u can add 💞
+
+○  all type of filter auto delete after 80sec ❤
+
+○  to avoid copyright ©️ 
+
+○  know railway.app server add 
+
+○  u get any errors dm @Beastonejnanesh 
 
 MADE BY @Beastonejnanesh 
 
