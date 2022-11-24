@@ -4,7 +4,9 @@ class Script(object):
 
 I'm an advanced filter bot with many capabilities!
 
-MADE BY @TechnoKillerBot
+I have also auto delete feature in ur filter 
+
+MADE BY @Beastonejnanesh 
 
 See <i>/help</i> for commands and more details.</b>
 """
@@ -49,13 +51,13 @@ See <i>/help</i> for commands and more details.</b>
 <code>/info userid</code>  -  Shows User Information. Use <code>/info</code> as reply to some message for their details!
 
 
-<b>© @TmMainChannel</b>
+<b>© @ROCKERSBACKUP</b>
 """
 
 
     ABOUT_MSG = """⭕️<b>My Name : Filter Bot</b>
 
-⭕️<b>Creater :</b> @Technomindzyt   
+⭕️<b>Creater :</b> @Beastonejnanesh   
 
 ⭕️<b>Language :</b> <code>Python3</code>
 
