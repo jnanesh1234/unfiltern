@@ -8,7 +8,7 @@ class Script(object):
 
 ○  all type of filter u can add 💞
 
-○  all type of filter auto delete after 80sec ❤
+○  all type of filter auto delete after 60sec ❤
 
 ○  to avoid copyright ©️ 
 
