@@ -14,16 +14,22 @@
 
 ## SUPPORT
 ## IF YOU NEED ANY ASSISTANCE FEEL FREE TO CONTACT
-## YOUTUBE  [SUPPORT_CHANNEL](https://t.me/ROCKERSBACKUP)
+## YOUTUBE  [SUPPORT_CHANNEL](https://youtube.com/@jnaneshtech1165)
 ## Contact [OWNER](https://t.me/Beastonejnanesh)
   
 ### Features
 ○ Nearly unlimited filters
+
 ○ Supports all type of filters(Including Alert Button Filter).
+
 ○ Can save button filters directly (Rose Bot Feature)
+
 ○ Supports multiple PM connections
+
 ○ And all other features of a Filter Bot :D
+
 ○ auto delete after send messages all type filter like text , link , poster, button 
+
 ○ 60sec auto delete so no copyright tension 
 
 #### Deploy the bot and start adding your filters :)
