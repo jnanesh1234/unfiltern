@@ -12,7 +12,7 @@ class Script(object):
 
 ○  to avoid copyright ©️ 
 
-○  know railway.app server add 
+○  know railway.app server added 
 
 ○  u get any errors dm @Beastonejnanesh 
 
