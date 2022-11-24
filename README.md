@@ -6,7 +6,7 @@
 
 ## Introduction
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+filter+bot!;A+FILTER+BOT+LIKE+BETTERFILTERBOT;Created+by+JNANESH GOWDATN!;A+simple+and+a+powerful+Bot!;Don't+Forget+To+Subcribe;Techno+Mindz+in+YouTube;)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+filter+bot!;A+FILTER+BOT+LIKE+BETTERFILTERBOT;Created+by+JNANESH!;A+simple+and+a+powerful+Bot!;Don't+Forget+To+Subcribe;Techno+Mindz+in+YouTube;)
 </p>
 </h1>
 <a href="https://youtube.com/@jnaneshtech1165">
