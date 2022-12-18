@@ -2,19 +2,12 @@ class Script(object):
 
     START_MSG = """<b>Hey 👋 {},
 
-○  I'm an manual unlimited filter bot with many features 💖
+ 𝐼 𝑎𝑚 𝑢𝑛𝑙𝑖𝑚𝑖𝑡𝑒𝑑 𝑚𝑎𝑛𝑢𝑎𝑙 𝑓𝑖𝑙𝑡𝑒𝑟 𝑏𝑜𝑡 𝑤𝑖𝑡ℎ 𝑎𝑢𝑡𝑜 𝑑𝑒𝑙𝑒𝑡𝑒 𝑠𝑢𝑝𝑝𝑜𝑟𝑡 𝑡𝑜 𝑎𝑣𝑜𝑖𝑑 𝑐𝑜𝑝𝑦𝑟𝑖𝑔ℎ𝑡 
+ 𝑖 𝑎𝑚 @𝐵𝑒𝑎𝑠𝑡𝑜𝑛𝑒𝑗𝑛𝑎𝑛𝑒𝑠ℎ 𝑝𝑒𝑟𝑠𝑜𝑛𝑎𝑙 𝐵𝑜𝑡 𝑛𝑜𝑡 𝑝𝑢𝑏𝑙𝑖𝑐 
 
-○  I have also auto delete feature in ur filter 💝
+𝐼𝑓 𝑢 𝑤𝑎𝑛𝑡 𝑡ℎ𝑖𝑠 𝑡𝑦𝑝𝑒 𝑜𝑓 𝑏𝑜𝑡 𝑚𝑒𝑠𝑠𝑎𝑔𝑒𝑠 𝑚𝑦 𝑂𝑤𝑛𝑒𝑟 ℎ𝑒 𝑤𝑖𝑙𝑙 𝑔𝑖𝑣𝑒 𝑢 𝑓𝑢𝑙𝑙 𝑟𝑒𝑝𝑜 𝑏𝑢𝑡 𝑝𝑎𝑖𝑑 @𝐵𝑒𝑎𝑠𝑡𝑜𝑛𝑒𝑗𝑛𝑎𝑛𝑒𝑠ℎ
 
-○  all type of filter u can add 💞
 
-○  all type of filter auto delete after 60sec ❤
-
-○  to avoid copyright ©️ 
-
-○  know railway.app server added 
-
-○  u get any errors dm @Beastonejnanesh 
 
 MADE BY @Beastonejnanesh 
 
