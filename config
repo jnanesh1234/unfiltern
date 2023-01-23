@@ -1,0 +1,24 @@
+import os
+import time
+
+class Config(object):
+
+    # Get a bot token from botfather
+    TG_BOT_TOKEN = os.environ.get("TG_BOT_TOKEN", "5413208870:AAHI__jJmHqImKJF1kFk2ASS1AHOz-Fxo_8")
+
+
+    # Get from my.telegram.org (or @UseTGXBot)
+    API_ID = int(os.environ.get("API_ID", 15316095))
+
+
+    # Get from my.telegram.org (or @UseTGXBot)
+    API_HASH = os.environ.get("API_HASH", "6a293d116082b81260ac83d21f595ffa")
+    
+    
+    # Database URL from https://cloud.mongodb.com/
+    DATABASE_URI = os.environ.get("DATABASE_URI", "mongodb+srv://mangodb:mangodb@cluster0.dskkdky.mongodb.net/?retryWrites=true&w=majority")
+
+
+    # Your database name from mongoDB
+    DATABASE_NAME = str(os.environ.get("DATABASE_NAME", "Cluster0"))
+
