@@ -81,6 +81,10 @@
 </p>
 </details>
 
+## railway.app ##
+
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/Nhntzy?referralCode=-0zUfn)
+
   ## CREATED BY
  
 * [Jnanesh gowda t n ](https://t.me/Beastonejnanesh)
